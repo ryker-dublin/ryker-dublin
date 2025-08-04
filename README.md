@@ -1,4 +1,6 @@
-## Hi there 👋
+<div allign="center">
+<img src="https://github.com/user-attachments/assets/1d0a4d6a-cefb-402b-a9b2-1c9fb80808e0" />
+</div>
 
 <!--
 **ryker-dublin/ryker-dublin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
